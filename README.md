@@ -8,21 +8,17 @@
 
 ## 💻 About Me
 
-I'm a developer currently learning and exploring **full-stack web development**.
+I'm **Wasif Tasin**, a developer currently exploring the world of **full-stack web development**.
 
-I'm interested in understanding how modern web applications are built, from creating responsive user interfaces to developing backend services and APIs.
+I enjoy understanding how modern web applications work — from designing clean and responsive interfaces to building the logic and services behind them.
 
-Currently, I'm learning and working with:
+I'm passionate about **learning by building**, experimenting with new ideas, and turning what I learn into real projects.
 
-- 🌐 HTML & CSS
-- ⚡ JavaScript & TypeScript
-- ⚛️ React
-- 🟢 Node.js & Express
-- 💻 C++ & SFML
-- 🔧 Git & GitHub
-- 🛠️ VS Code
+### 🌱 My Journey
 
-I'm still in the learning stage, continuously building projects, experimenting with different technologies, and improving my development skills.
+Currently focused on strengthening my fundamentals, building practical projects, and gradually becoming a better problem solver and developer.
+
+> *Learning never stops. Every project is another step forward.*
 
 ---
 
