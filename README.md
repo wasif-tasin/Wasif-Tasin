@@ -8,18 +8,17 @@
 
 ## 💻 About Me
 
-I'm **Wasif Tasin**, a developer currently exploring the world of **full-stack web development**.
+I'm a developer currently exploring **full-stack web development**.
 
-I enjoy understanding how modern web applications work — from designing clean and responsive interfaces to building the logic and services behind them.
+I enjoy understanding how modern web applications are built — from creating clean and responsive user interfaces to developing the logic and services behind them.
 
-I'm passionate about **learning by building**, experimenting with new ideas, and turning what I learn into real projects.
+I'm passionate about **learning by building**, experimenting with new ideas, and turning concepts into practical projects.
 
 ### 🌱 My Journey
 
-Currently focused on strengthening my fundamentals, building practical projects, and gradually becoming a better problem solver and developer.
+I'm continuously improving my development skills through hands-on projects, problem solving, and exploring how different parts of modern applications work together.
 
-> *Learning never stops. Every project is another step forward.*
-
+> *Learn → Build → Improve → Repeat.*
 ---
 
 ## 🛠️ Tech Stack
