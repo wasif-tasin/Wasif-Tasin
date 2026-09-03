@@ -49,25 +49,35 @@ I'm continuously improving my development skills through hands-on projects, prob
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Pinned Projects
 
-### 🚌 University Bus Tracker System
+<table>
+<tr>
+<td width="50%">
 
-A desktop-based University Bus Tracker System developed using **C++ and SFML**.
+### 🚍 University Bus Tracker System
 
-**Technologies:** `C++` `SFML`
+A desktop-based university bus tracking system built with **C++ & SFML**.
+
+**Tech:** `C++` `SFML`
 
 🔗 [View Repository](https://github.com/wasif-tasin/University-Bus-Tracker-System)
 
----
+</td>
+
+<td width="50%">
 
 ### 🌐 Web Developer Portfolio
 
-A personal portfolio project created while learning and experimenting with modern web development technologies.
+A personal portfolio project built while exploring modern web development.
 
-**Technologies:** `HTML` `CSS` `JavaScript` `React`
+**Tech:** `HTML` `CSS` `JavaScript` `React`
 
 🔗 [View Repository](https://github.com/wasif-tasin/web-dev-portfolio)
+
+</td>
+</tr>
+</table>
 
 ---
 
