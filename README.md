@@ -79,15 +79,8 @@ A personal portfolio project created while learning and experimenting with moder
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wasif-tasin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasif-tasin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=wasif-tasin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-## GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wasif-tasin/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" />
