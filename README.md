@@ -87,7 +87,12 @@ A personal portfolio project created while learning and experimenting with moder
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wasif-tasin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+## GitHub Stats
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wasif-tasin/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/wasif-tasin/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" />
+</p>
 ---
 
 ## 🐍 Contribution Snake
